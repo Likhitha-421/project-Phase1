@@ -133,7 +133,6 @@ namespace project_Phase1
                     count++;
                 }
                 File.WriteAllLines(@"D:\Likhitha\Teacher projectfile.txt", arr);
-
             }
             static void search()
             {
